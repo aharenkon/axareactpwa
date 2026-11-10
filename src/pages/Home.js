@@ -164,12 +164,6 @@ const Home = () => {
               <a className="btn" href="/works">
                 Портфолио
               </a>
-              <a
-                className="btn-disabled"
-                href="https://www.aharenkov.ru/my-creative"
-              >
-                Смотреть идеи
-              </a>
             </div>
           </div>
         </section>

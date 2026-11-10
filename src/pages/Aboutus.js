@@ -60,9 +60,6 @@ const Aboutus = () => {
           <div className="about-blog">
           <br />
           <br />
-          <a className="btn-disabled" href="https://www.aharenkov.ru/my-creative">
-            Смотреть идеи
-          </a>
           <br />
           </div>
         </div>

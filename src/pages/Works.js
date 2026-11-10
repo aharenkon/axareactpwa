@@ -146,9 +146,6 @@ const Works = () => {
               <br />В AXA Code блоге я расскажу как я черпаю идеи из фильмов.
             </div>
             <br />
-            <a className="btn-disabled" href="https://www.aharenkov.ru/my-creative">
-              Смотреть идеи
-            </a>
           </div>
         </div>
       </section>
